@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val toast = Toast.makeText(this, "OK!!", Toast.LENGTH_SHORT)
             toast.show()
             //ブラウザを立ち上げる
-            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://192.168.1.3:8080"))
+            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://192.168.1.3/api/websocket/"))
             startActivity(intent)
         }
     }
