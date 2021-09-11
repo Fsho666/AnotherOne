@@ -1,0 +1,6 @@
+# workspace-anotherone
+AnotherOneの作業用リポジトリです．主に試作プログラムの共有用に使います．
+
+iOS班はiosブランチを作ってコミットしてください．
+Android班はAndroidブランチを作ってコミットしてください．
+backendはbackendブランチを作ってコミットしてください．
